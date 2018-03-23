@@ -28,7 +28,7 @@ Papers and books that I think are important to read if you are doing NLP and Dee
 - _A Maximum Entropy Model for Part-Of-Speech Tagging (Ratnaparkhi)_
   - http://www.aclweb.org/anthology/W/W96/W96-0213.pdf
 
-- _Baselines and Bigrams: Simple, Good Sentiment and Topic Classification (Wang/Manning) (NBSVM)_
+- _Baselines and Bigrams: Simple, Good Sentiment and Topic Classification (Wang, Manning) (NBSVM)_
   - http://nlp.stanford.edu/pubs/sidaw12_simple_sentiment.pdf
   - https://rawgit.com/dpressel/Meetups/master/nlp-meetup-2016-02-25/presentation.html#34
 
@@ -76,7 +76,7 @@ Papers and books that I think are important to read if you are doing NLP and Dee
 
 - _Recurrent Neural Network Regularization (Zaremba, Sutskever, Vinyals)_
   - https://arxiv.org/abs/1409.2329
-- _Character-Aware Neural Language Models (Kim/Jernite/Sontag/Rush)_
+- _Character-Aware Neural Language Models (Kim, Jernite, Sontag, Rush)_
   - https://arxiv.org/abs/1508.06615
 - _Exploring the Limits of Language Modeling (Jozefowicz, Vinyals, Schuster, Shazeer, Wu)_
   - https://arxiv.org/pdf/1602.02410v2.pdf
@@ -90,7 +90,7 @@ Papers and books that I think are important to read if you are doing NLP and Dee
   - https://rawgit.com/dpressel/Meetups/master/nlp-reading-group-2016-03-14/presentation.html#1
 - _Neural Architectures for Named Entity Recognition (Lample et al)_
   - https://arxiv.org/abs/1603.01360
-- _End-to-end Sequence Labeling via Bi-directional LSTM-CNNs-CRF (Ma/Hovy)_
+- _End-to-end Sequence Labeling via Bi-directional LSTM-CNNs-CRF (Ma, Hovy)_
   - https://arxiv.org/abs/1603.01354
 - _Reporting Score Distributions Makes a Difference: Performance Study of LSTM-networks for Sequence Tagging (Reimers, Gurevych)_
   - http://aclweb.org/anthology/D17-1035
