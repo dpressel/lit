@@ -18,7 +18,7 @@ Papers and books that I think are important for NLP and Deep Learning
 
 - _A Tutorial on Hidden Markov Models and Selected Applications in Speech Recognition (Rabiner)_
   - http://www.ece.ucsb.edu/Faculty/Rabiner/ece259/Reprints/tutorial%20on%20hmm%20and%20applications.pdf
-  
+
 - _TnT - A Statistical Part of Speech Tagger (Brants)_
   - http://www.coli.uni-saarland.de/~thorsten/publications/Brants-ANLP00.pdf
 
@@ -41,6 +41,12 @@ Papers and books that I think are important for NLP and Deep Learning
 - _A Dynamic Oracle for Arc-Eager Dependency Parsing (Goldberg, Nivre)_
   - http://www.aclweb.org/anthology/C/C12/C12-1059.pdf
 
+- _TextRank: Bringing Order into Texts (Mihalcea, Tarau)_
+  - https://web.eecs.umich.edu/~mihalcea/papers/mihalcea.emnlp04.pdf
+
+- _Improving Machine Learning Approaches to Coreference Resolution (Ng, Cardie)_
+  - http://www.hlt.utdallas.edu/~vince/papers/acl02.pdf
+
 ### Papers for Deep Learning (mostly for NLP) ###
 
 #### Representations, Cross-task
@@ -57,6 +63,8 @@ Papers and books that I think are important for NLP and Deep Learning
   - https://arxiv.org/pdf/1508.02096.pdf
 - _Natural Language Processing (Almost) from Scratch (Collobert et al)_
   - http://jmlr.org/papers/volume12/collobert11a/collobert11a.pdf
+- _Enriching Word Vectors with Subword Information (Bojanowski, Grave, Joulin, Mikolov)_
+  - https://arxiv.org/abs/1607.04606
 
 #### Language Modeling
 
@@ -118,7 +126,9 @@ Papers and books that I think are important for NLP and Deep Learning
   - https://arxiv.org/abs/1502.03167
 - _Hierarchical Attention Networks for Document Classification (Yanh et al)_
   - https://www.microsoft.com/en-us/research/publication/hierarchical-attention-networks-document-classification/
-  
+- _Deep Residual Learning for Image Recognition (He, Zhang, Ren, Sun)_
+  - https://arxiv.org/pdf/1512.03385v1.pdf
+
 ### Videos/Courses/Learning ###
 
 - Hugo LaRochelle's Neural Networks course
