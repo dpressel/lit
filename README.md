@@ -47,6 +47,12 @@ Papers and books that I think are important to read if you are doing NLP and Dee
 - _Improving Machine Learning Approaches to Coreference Resolution (Ng, Cardie)_
   - http://www.hlt.utdallas.edu/~vince/papers/acl02.pdf
 
+- _Local and Global Algorithms for Disambiguation to Wikipedia (Ratinov, Roth, Downey, Anderson)_
+  - http://www.aclweb.org/anthology/P11-1138.pdf
+
+- _Latent Dirichlet Allocation (Blei, Ng, Jordan)_
+  - http://www.jmlr.org/papers/volume3/blei03a/blei03a.pdf
+
 ### Papers for Deep Learning (mostly for NLP) ###
 
 #### Representations, Cross-task
