@@ -110,6 +110,8 @@ Papers and books that I think are important to read if you are doing NLP and Dee
 
 #### Dialogue
 
+- _Building End-To-End Dialogue Systems Using Generative Hierarchical Neural Network Models (Serban, Sordoni, Bengio, Courville, Pineau)_
+  - https://arxiv.org/pdf/1507.04808.pdf
 - _End-to-end LSTM-based dialog control optimized with supervised and reinforcement learning (Williams, Zweig)_
   - https://arxiv.org/pdf/1606.01269.pdf
 - _Hybrid Code Networks: practical and efficient end-to-end dialog control with supervised and reinforcement learning (Williams, Asadi, Zweig)_
