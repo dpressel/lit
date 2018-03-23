@@ -95,7 +95,7 @@ Papers and books that I think are important for NLP and Deep Learning
   - https://arxiv.org/abs/1409.3215
 - _Learning Phrase Representations using RNN Encoder-Decoder for Statistical Machine Translation (Cho et al)_
   - https://arxiv.org/abs/1406.1078
-- _Neural Machine Translation by Jointly Learning to Align and Translate (Bahdanau/Cho/Bengio)_
+- _Neural Machine Translation by Jointly Learning to Align and Translate (Bahdanau, Cho, Bengio)_
   - https://arxiv.org/abs/1409.0473
 - _Attention Is All You Need (Vaswani et al)_
   - https://arxiv.org/pdf/1706.03762.pdf
@@ -140,3 +140,6 @@ Papers and books that I think are important for NLP and Deep Learning
   - http://andrew.gibiansky.com/blog/machine-learning/fully-connected-neural-networks/
 - _Understanding LSTM Networks_
   - https://colah.github.io/posts/2015-08-Understanding-LSTMs/
+
+- _The Unreasonable Effectiveness of Recurrent Neural Networks (Karpathy)_
+  - https://karpathy.github.io/2015/05/21/rnn-effectiveness/
