@@ -64,7 +64,8 @@ Papers and books that I think are important for NLP and Deep Learning
   - https://arxiv.org/abs/1409.2329
 - _Character-Aware Neural Language Models (Kim/Jernite/Sontag/Rush)_
   - https://arxiv.org/abs/1508.06615
-
+- _Exploring the Limits of Language Modeling (Jozefowicz, Vinyals, Schuster, Shazeer, Wu)_
+  - https://arxiv.org/pdf/1602.02410v2.pdf
 #### Sequence Tagging
 
 - _Learning Character-level Representations for Part-of-Speech Tagging (dos Santos, Zadrozny)_
@@ -90,6 +91,8 @@ Papers and books that I think are important for NLP and Deep Learning
   - https://arxiv.org/abs/1409.0473
 - _Attention Is All You Need (Vaswani et al)_
   - https://arxiv.org/pdf/1706.03762.pdf
+- _Show and Tell: A Neural Image Caption Generator (Vinyals, Tosheb, Bengio, Erhan)_
+  - https://arxiv.org/pdf/1411.4555v2.pdf
 
 #### Dialogue
 
@@ -100,6 +103,8 @@ Papers and books that I think are important for NLP and Deep Learning
 - _Learning End-to-End Goal-oriented Dialog (Bordes, Boureau, Weston)_
   - https://arxiv.org/pdf/1605.07683.pdf
   - https://rawgit.com/dpressel/Meetups/master/nlp-reading-group-2017-02-08/presentation.html#(1)
+- _A Neural Conversation Model (Vinyals, Le)_
+  - https://arxiv.org/pdf/1506.05869v3.pdf
 
 #### Classification, Architecture, ML
 
