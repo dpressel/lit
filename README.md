@@ -1,6 +1,6 @@
 # README #
 
-Papers and books that I think are important for NLP and Deep Learning
+Papers and books that I think are important to read if you are doing NLP and Deep Learning
 
 ### Books ###
 
