@@ -108,6 +108,9 @@ Papers and books that I think are important to read if you are doing NLP and Dee
 - _Show and Tell: A Neural Image Caption Generator (Vinyals, Tosheb, Bengio, Erhan)_
   - https://arxiv.org/pdf/1411.4555v2.pdf
 
+- _Effective Approaches to Attention-based Neural Machine Translation_ (Luong, Pham, Manning)
+  - https://nlp.stanford.edu/pubs/emnlp15_attn.pdf
+
 #### Dialogue
 
 - _Building End-To-End Dialogue Systems Using Generative Hierarchical Neural Network Models (Serban, Sordoni, Bengio, Courville, Pineau)_
@@ -151,3 +154,15 @@ Papers and books that I think are important to read if you are doing NLP and Dee
 
 - _The Unreasonable Effectiveness of Recurrent Neural Networks (Karpathy)_
   - https://karpathy.github.io/2015/05/21/rnn-effectiveness/
+
+- _Ronan Collobert's Thesis_
+  - http://ronan.collobert.org/pub/matos/2004_phdthesis_lip6.pdf
+
+- _SGD Tricks (Bottou)_
+  - http://research.microsoft.com/pubs/192769/tricks-2012.pdf
+
+- _Large Scale Online Learning (Bottou, LeCun)_
+  - http://leon.bottou.org/publications/pdf/nips-2003.pdf
+
+- _Feature Hashing (Langford)_
+  - http://cilvr.cs.nyu.edu/diglib/lsml/lecture08-hashing.pdf
