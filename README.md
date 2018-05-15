@@ -71,6 +71,8 @@ Papers and books that I think are important to read if you are doing NLP and Dee
   - http://jmlr.org/papers/volume12/collobert11a/collobert11a.pdf
 - _Enriching Word Vectors with Subword Information (Bojanowski, Grave, Joulin, Mikolov)_
   - https://arxiv.org/abs/1607.04606
+- _Convolutional Neural Networks for Text Categorization: Shallow Word-level vs Deep Character-level (Johnson, Zhang)_
+  - https://arxiv.org/pdf/1609.00718.pdf
 
 #### Language Modeling
 
