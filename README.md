@@ -80,6 +80,9 @@ Papers and books that I think are important to read if you are doing NLP and Dee
   - https://arxiv.org/abs/1508.06615
 - _Exploring the Limits of Language Modeling (Jozefowicz, Vinyals, Schuster, Shazeer, Wu)_
   - https://arxiv.org/pdf/1602.02410v2.pdf
+- _Regularizing and Optimizing LSTM Language Models_
+  - https://arxiv.org/pdf/1708.02182.pdf
+
 #### Sequence Tagging
 
 - _Learning Character-level Representations for Part-of-Speech Tagging (dos Santos, Zadrozny)_
