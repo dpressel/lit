@@ -99,7 +99,8 @@ Papers and books that I think are important to read if you are doing NLP and Dee
   - https://arxiv.org/abs/1603.01354
 - _Reporting Score Distributions Makes a Difference: Performance Study of LSTM-networks for Sequence Tagging (Reimers, Gurevych)_
   - http://aclweb.org/anthology/D17-1035
-
+- _Design Challenges and Misconceptions in Neural Sequence Labeling (Yang, Liang, Zhang)_
+  - https://arxiv.org/pdf/1806.04470.pdf
 #### Encoder-Decoders, NMT
 
 - _Sequence to Sequence Learning with Neural Networks (Sutskever, Vinyals, Le)_
